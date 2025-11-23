@@ -16,4 +16,4 @@
 
 ## **Dashboard**
 
-![Alt text of the image](https://github.com/singh-anuragg/Sales-Dashboard/blob/main/Screenshot%202025-10-11%20111527.png)
+![Alt text of the image](https://github.com/singh-anuragg/E-Commerce-Website-Sales-Analysis---POWER-BI/blob/main/E-commerce.png)
